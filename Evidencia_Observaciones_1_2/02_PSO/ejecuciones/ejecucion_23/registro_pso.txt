@@ -1,0 +1,58 @@
+[2026-11-10 12:03:12] Campana 1 ejecuciones; origen del costo: simulink.
+[2026-11-10 12:03:12] Ejecucion 1/1; semilla 23.
+[2026-11-10 12:06:19] Ejecucion 23; iteracion 0/50; mejor J 0.178960917219.
+[2026-11-10 12:06:19] INTERRUMPIDA en ejecucion 23: Pausa solicitada: generacion completa guardada.
+[2026-11-10 14:05:10] Campana 1 ejecuciones; origen del costo: simulink.
+[2026-11-10 14:05:10] Ejecucion 1/1; semilla 23.
+[2026-11-10 14:08:29] Ejecucion 23; iteracion 1/50; mejor J 0.178382452968.
+[2026-11-10 14:11:31] Ejecucion 23; iteracion 2/50; mejor J 0.178000453388.
+[2026-11-10 14:14:32] Ejecucion 23; iteracion 3/50; mejor J 0.174900970544.
+[2026-11-10 14:17:32] Ejecucion 23; iteracion 4/50; mejor J 0.171696365386.
+[2026-11-10 14:20:33] Ejecucion 23; iteracion 5/50; mejor J 0.168079576486.
+[2026-11-10 14:23:34] Ejecucion 23; iteracion 6/50; mejor J 0.166177995416.
+[2026-11-10 14:26:34] Ejecucion 23; iteracion 7/50; mejor J 0.163916739847.
+[2026-11-10 14:29:34] Ejecucion 23; iteracion 8/50; mejor J 0.162658524374.
+[2026-11-10 14:32:36] Ejecucion 23; iteracion 9/50; mejor J 0.161453659725.
+[2026-11-10 14:35:35] Ejecucion 23; iteracion 10/50; mejor J 0.161237791476.
+[2026-11-10 14:38:36] Ejecucion 23; iteracion 11/50; mejor J 0.161188503299.
+[2026-11-10 14:41:37] Ejecucion 23; iteracion 12/50; mejor J 0.161107114066.
+[2026-11-10 14:44:38] Ejecucion 23; iteracion 13/50; mejor J 0.161107114066.
+[2026-11-10 14:47:38] Ejecucion 23; iteracion 14/50; mejor J 0.161084822418.
+[2026-11-10 14:50:38] Ejecucion 23; iteracion 15/50; mejor J 0.161049591847.
+[2026-11-10 14:53:38] Ejecucion 23; iteracion 16/50; mejor J 0.161044766542.
+[2026-11-10 14:56:41] Ejecucion 23; iteracion 17/50; mejor J 0.161026025969.
+[2026-11-10 14:59:42] Ejecucion 23; iteracion 18/50; mejor J 0.161023964911.
+[2026-11-10 15:02:42] Ejecucion 23; iteracion 19/50; mejor J 0.161012990747.
+[2026-11-10 15:05:43] Ejecucion 23; iteracion 20/50; mejor J 0.160998559307.
+[2026-11-10 15:08:43] Ejecucion 23; iteracion 21/50; mejor J 0.160992018938.
+[2026-11-10 15:11:48] Ejecucion 23; iteracion 22/50; mejor J 0.160989068041.
+[2026-11-10 15:14:40] Ejecucion 23; iteracion 23/50; mejor J 0.160987110715.
+[2026-11-10 15:17:27] Ejecucion 23; iteracion 24/50; mejor J 0.160977379688.
+[2026-11-10 15:20:15] Ejecucion 23; iteracion 25/50; mejor J 0.160972949679.
+[2026-11-10 15:23:25] Ejecucion 23; iteracion 26/50; mejor J 0.160971194222.
+[2026-11-10 15:27:30] Ejecucion 23; iteracion 27/50; mejor J 0.160969308285.
+[2026-11-10 15:30:33] Ejecucion 23; iteracion 28/50; mejor J 0.160966727283.
+[2026-11-10 15:33:49] Ejecucion 23; iteracion 29/50; mejor J 0.160965045849.
+[2026-11-10 15:36:52] Ejecucion 23; iteracion 30/50; mejor J 0.160964288631.
+[2026-11-10 15:40:07] Ejecucion 23; iteracion 31/50; mejor J 0.160963114865.
+[2026-11-10 15:43:18] Ejecucion 23; iteracion 32/50; mejor J 0.16096190773.
+[2026-11-10 15:46:34] Ejecucion 23; iteracion 33/50; mejor J 0.160961364261.
+[2026-11-10 15:49:39] Ejecucion 23; iteracion 34/50; mejor J 0.16096110587.
+[2026-11-10 15:52:49] Ejecucion 23; iteracion 35/50; mejor J 0.160960369313.
+[2026-11-10 15:56:11] Ejecucion 23; iteracion 36/50; mejor J 0.160960025033.
+[2026-11-10 15:59:28] Ejecucion 23; iteracion 37/50; mejor J 0.160959696917.
+[2026-11-10 16:02:42] Ejecucion 23; iteracion 38/50; mejor J 0.160959526001.
+[2026-11-10 16:05:51] Ejecucion 23; iteracion 39/50; mejor J 0.160959340021.
+[2026-11-10 16:08:55] Ejecucion 23; iteracion 40/50; mejor J 0.160959224762.
+[2026-11-10 16:12:07] Ejecucion 23; iteracion 41/50; mejor J 0.160959126389.
+[2026-11-10 16:15:18] Ejecucion 23; iteracion 42/50; mejor J 0.160958955802.
+[2026-11-10 16:18:30] Ejecucion 23; iteracion 43/50; mejor J 0.160958879031.
+[2026-11-10 16:21:44] Ejecucion 23; iteracion 44/50; mejor J 0.160958836224.
+[2026-11-10 16:25:19] Ejecucion 23; iteracion 45/50; mejor J 0.160958730239.
+[2026-11-10 16:29:13] Ejecucion 23; iteracion 46/50; mejor J 0.160958682543.
+[2026-11-10 16:32:40] Ejecucion 23; iteracion 47/50; mejor J 0.160958661079.
+[2026-11-10 16:36:05] Ejecucion 23; iteracion 48/50; mejor J 0.16095862993.
+[2026-11-10 16:39:13] Ejecucion 23; iteracion 49/50; mejor J 0.160958581502.
+[2026-11-10 16:42:10] Ejecucion 23; iteracion 50/50; mejor J 0.160958546675.
+[2026-11-10 16:42:20] Final 1: J=0.160958546675; A=14.6094737121 B=12.1933137329 C=4999.99608991.
+[2026-11-10 16:42:20] Busqueda terminada; resultados y validacion guardados.

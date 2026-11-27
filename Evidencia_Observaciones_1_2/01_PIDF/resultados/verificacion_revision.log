@@ -1,0 +1,73 @@
+Verificacion nueva: 20261117T144538; MATLAB 25.2.0.3360999 (R2025b) Update 7
+    <strong>N</strong>      <strong>Media</strong>     <strong>DesvMuestral</strong>    <strong>Mediana</strong>     <strong>Mejor</strong>      <strong>Peor</strong>      <strong>SemillaMejor</strong>      <strong>A</strong>         <strong>B</strong>        <strong>C</strong>  
+    <strong>__</strong>    <strong>_______</strong>    <strong>____________</strong>    <strong>_______</strong>    <strong>_______</strong>    <strong>_______</strong>    <strong>____________</strong>    <strong>______</strong>    <strong>______</strong>    <strong>____</strong>
+
+    30    0.16216     0.0017882      0.16155    0.16001    0.16577         24         14.657    14.989    5000
+
+Max diferencia trapz vs objetivo Simulink: 3.16115689181e-09
+PID original: 35267.2882126 114500.782946 2715.66181879 N=100
+Escenario 1; diferencias pasivo/FLC/PID/fuerza: 0 2.34000319e-13 0 2.4294286e-07
+Escenario 2; diferencias pasivo/FLC/PID/fuerza: 0 3.6586012e-13 0 9.31297564e-07
+Verificacion nueva: 20261117T145908; MATLAB 25.2.0.3360999 (R2025b) Update 7
+    <strong>N</strong>      <strong>Media</strong>     <strong>DesvMuestral</strong>    <strong>Mediana</strong>     <strong>Mejor</strong>      <strong>Peor</strong>      <strong>SemillaMejor</strong>      <strong>A</strong>         <strong>B</strong>        <strong>C</strong>  
+    <strong>__</strong>    <strong>_______</strong>    <strong>____________</strong>    <strong>_______</strong>    <strong>_______</strong>    <strong>_______</strong>    <strong>____________</strong>    <strong>______</strong>    <strong>______</strong>    <strong>____</strong>
+
+    30    0.16216     0.0017882      0.16155    0.16001    0.16577         24         14.657    14.989    5000
+
+Max diferencia trapz vs objetivo Simulink: 3.16115689181e-09
+PID original: 35267.2882126 114500.782946 2715.66181879 N=100
+Escenario 1; diferencias pasivo/FLC/PID/fuerza: 0 2.34000319e-13 0 2.4294286e-07
+Escenario 2; diferencias pasivo/FLC/PID/fuerza: 0 3.6586012e-13 0 9.31297564e-07
+Candidato 1: J 0.45176423 RMS 0.02488462 pico 0.14050131
+Candidato 2: J 0.44733823 RMS 0.02476952 pico 0.13906433
+Candidato 3: J 0.44670257 RMS 0.02477605 pico 0.13866110
+Candidato 4: J 0.32143945 RMS 0.01900204 pico 0.11364763
+Candidato 5: J 0.31572327 RMS 0.01889983 pico 0.11118854
+Candidato 6: J 0.31469121 RMS 0.01891738 pico 0.11051012
+Candidato 7: J 0.24568686 RMS 0.01439781 pico 0.09867825
+Candidato 8: J 0.23670563 RMS 0.01427697 pico 0.09436366
+Candidato 9: J 0.23107649 RMS 0.01419705 pico 0.09167727
+Candidato 10: J 0.22131400 RMS 0.01265496 pico 0.09346140
+Candidato 11: J 0.21175121 RMS 0.01240055 pico 0.08932921
+Candidato 12: J 0.20476698 RMS 0.01218117 pico 0.08643802
+Candidato 13: J 0.21192461 RMS 0.01199140 pico 0.09114047
+Candidato 14: J 0.20264032 RMS 0.01171783 pico 0.08717977
+Candidato 15: J 0.19572379 RMS 0.01148157 pico 0.08434081
+Candidato 16: J 0.20487054 RMS 0.01148651 pico 0.08932238
+Candidato 17: J 0.19595638 RMS 0.01121799 pico 0.08549703
+Candidato 18: J 0.18909734 RMS 0.01096387 pico 0.08271628
+Candidato 19: J 0.19700983 RMS 0.01092062 pico 0.08720528
+Candidato 20: J 0.18849579 RMS 0.01065682 pico 0.08352916
+Candidato 21: J 0.18185838 RMS 0.01040392 pico 0.08081617
+Candidato 22: J 0.19118175 RMS 0.01113822 pico 0.08319317
+Candidato 23: J 0.18523451 RMS 0.01083651 pico 0.08108178
+Candidato 24: J 0.18117625 RMS 0.01066886 pico 0.07948296
+Candidato 25: J 0.19257658 RMS 0.01133770 pico 0.08318467
+Candidato 26: J 0.18640349 RMS 0.01100799 pico 0.08107665
+Candidato 27: J 0.18220397 RMS 0.01082183 pico 0.07947948
+Candidato 28: J 0.19407846 RMS 0.01154848 pico 0.08317617
+Candidato 29: J 0.18765769 RMS 0.01118896 pico 0.08107151
+Candidato 30: J 0.18329920 RMS 0.01098244 pico 0.07947599
+Candidato 31: J 0.18657895 RMS 0.01056433 pico 0.08281870
+Candidato 32: J 0.18100061 RMS 0.01027066 pico 0.08082105
+Candidato 33: J 0.17715032 RMS 0.01010786 pico 0.07928646
+Candidato 34: J 0.18755873 RMS 0.01071281 pico 0.08281104
+Candidato 35: J 0.17792391 RMS 0.01022974 pico 0.07928310
+Candidato 36: J 0.18859800 RMS 0.01086796 pico 0.08280338
+Candidato 37: J 0.18276821 RMS 0.01054335 pico 0.08081129
+Candidato 38: J 0.17874036 RMS 0.01035676 pico 0.07927974
+Candidato 39: J 0.18351331 RMS 0.01019270 pico 0.08246926
+Candidato 40: J 0.17804676 RMS 0.00987684 pico 0.08057066
+Candidato 41: J 0.17430000 RMS 0.00970520 pico 0.07910016
+Candidato 42: J 0.18411488 RMS 0.01028797 pico 0.08246258
+Candidato 43: J 0.17864269 RMS 0.00997357 pico 0.08056625
+Candidato 44: J 0.17485204 RMS 0.00979612 pico 0.07909704
+Candidato 45: J 0.18474628 RMS 0.01038693 pico 0.08245590
+Candidato 46: J 0.17926724 RMS 0.01007388 pico 0.08056184
+Candidato 47: J 0.17544393 RMS 0.00989261 pico 0.07909392
+    <strong>Candidato</strong>          <strong>Familia</strong>          <strong>wc_origen</strong>     <strong>Kp</strong>          <strong>Ki</strong>          <strong>Kd</strong>       <strong>N</strong>     <strong>EstabilidadLineal</strong>    <strong>J_pulso</strong>    <strong>RMS_pulso</strong>    <strong>Pico_pulso</strong>    <strong>FRMS_pulso</strong>    <strong>Fpico_pulso</strong>     <strong>IF_pulso</strong>     <strong>J_estocastico_refPulso</strong>    <strong>RMS_estocastico</strong>    <strong>Pico_estocastico</strong>    <strong>FRMS_estocastico</strong>    <strong>Fpico_estocastico</strong>    <strong>IF_estocastico</strong>
+    <strong>_________</strong>    <strong>___________________</strong>    <strong>_________</strong>    <strong>_____</strong>    <strong>__________</strong>    <strong>______</strong>    <strong>___</strong>    <strong>_________________</strong>    <strong>_______</strong>    <strong>_________</strong>    <strong>__________</strong>    <strong>__________</strong>    <strong>___________</strong>    <strong>__________</strong>    <strong>______________________</strong>    <strong>_______________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>_________________</strong>    <strong>______________</strong>
+
+       41        "refinamiento20pct"       25        87477    1.7587e+05    7251.6    200          true           0.1743     0.0097052      0.0791        753.74         5000        5.6813e+06           0.023081              0.0030488           0.011021             578.18              1647.6            3.3429e+06  
+
+VERIFICACION COMPLETADA; candidato elegido 41 de 47.

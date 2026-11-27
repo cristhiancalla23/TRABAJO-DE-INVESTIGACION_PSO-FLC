@@ -1,0 +1,31 @@
+EVIDENCIA DE LAS OBSERVACIONES 1 Y 2
+
+Esta es la unica carpeta principal que debe subirse completa. Las rutas del Word parten de Evidencia_Observaciones_1_2/.
+
+01_PIDF/resultados: 47 candidatos, ajuste seleccionado, comparaciones, series finales, verificaciones de reproduccion, modelo revisado y FIS.
+01_PIDF/modelo_original: modelo, parametros, sintonizador inicial y los dos MAT de comparacion que carga verificar_revision.m.
+02_PSO/resumen: resultados de las 30 ejecuciones y estadistica.
+02_PSO/ejecuciones: 30 carpetas; cada una contiene MAT, registro y diagnosticos. El MAT se llama ejecucion_01.mat en TODAS; identificar la corrida por la carpeta y registro.semilla.
+02_PSO/fuentes: algoritmo, configuracion semillas 1:30, objetivo, modelo, FIS y dependencias de ejecucion/verificacion.
+02_PSO/auditoria: contraste previamente realizado de los registros originales.
+
+REVISION SIN NUEVAS SIMULACIONES
+Abrir 02_PSO/resumen/resultados_ejecuciones.csv: 30 semillas, minimo CostoFinal en semilla 24. Abrir 01_PIDF/resultados/sensibilidad_pid.csv: 47 candidatos, minimo J_pulso en candidato 41.
+En MATLAB, situarse en esta carpeta raiz y ejecutar: auditar_registros_pso
+La auditoria lee los MAT originales y escribe en 02_PSO/auditoria_nueva. No necesita repetir PSO ni ejecutar Simulink.
+
+REPRODUCIR LA COMPARACION (R2025b; Simulink, Control System Toolbox, Fuzzy Logic Toolbox)
+Trabajar en una copia de esta carpeta para conservar la evidencia entregada.
+Ejecutar desde la raiz: verificar_revision; finalizar_revision
+Estos comandos regeneran los resultados PIDF y los archivos de auditoria. Conservan la planta, las ganancias evaluadas y los calculos originales. La carpeta de salida es 01_PIDF/resultados.
+Para abrir el modelo revisado, situarse en 01_PIDF/resultados y abrir Modelo_revision2.slx; suspension.fis debe permanecer al lado.
+
+REPETICION OPCIONAL DE LA CAMPANA ORIGINAL (R2026b compatible; Simulink, Fuzzy Logic Toolbox y Parallel Computing Toolbox)
+Desde la raiz: config=preparar_reproduccion_pso; despues campana=ejecutar_pso4(config)
+El primer comando crea una copia nueva de fuentes y reubica referencias; no inicia las busquedas. El segundo puede tardar muchas horas. No se repitio esta campana en la revision; el preparador no se ha validado mediante una ejecucion completa en R2026b.
+
+ALCANCE DE LA REORGANIZACION
+Solo cambian las rutas de los cuatro scripts de la raiz. Todos los resultados, modelos, FIS y fuentes originales de PSO conservan sus bytes. No se han realizado nuevas simulaciones durante esta reorganizacion. Los CSV, MAT y logs historicos pueden contener rutas antiguas, conservadas como procedencia; no son instrucciones de ejecucion.
+Se preservan los NaN de fuerza no registrada durante las 30 busquedas y de la rama FLC omitida en las trazas intermedias del barrido; las series_finales contienen la respuesta FLC reproducida.
+Campana PSO: 5 s; comparacion: 10 s. El costo archivado y el del modelo comparativo no son identicos, como se declara en el manuscrito.
+El archivo INDICE_ARCHIVOS.csv identifica la finalidad de cada archivo y SHA256.csv permite comprobar su integridad.

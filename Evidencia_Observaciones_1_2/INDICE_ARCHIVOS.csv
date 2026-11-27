@@ -1,0 +1,144 @@
+﻿Ruta,Observacion,Finalidad
+01_PIDF/modelo_original/ActiveSuspensionv2.slx,1,Dependencia de reproduccion
+01_PIDF/modelo_original/PID.m,1,Dependencia de reproduccion
+01_PIDF/modelo_original/parameters.m,1,Dependencia de reproduccion
+01_PIDF/modelo_original/resultados_estocastico_20261112_043955_729/datos_y_metricas.mat,1,Dependencia de reproduccion
+01_PIDF/modelo_original/resultados_pulso_20261112_043616_465/datos_y_metricas.mat,1,Dependencia de reproduccion
+01_PIDF/modelo_original/suspension.fis,1,Dependencia de reproduccion
+01_PIDF/resultados/Modelo_revision2.slx,1,Modelo o script
+01_PIDF/resultados/comparacion_final_estocastico.csv,1,Datos y resultados
+01_PIDF/resultados/comparacion_final_pulso.csv,1,Datos y resultados
+01_PIDF/resultados/errores_reproduccion.csv,1,Datos y resultados
+01_PIDF/resultados/pid_seleccionado.csv,1,Datos y resultados
+01_PIDF/resultados/reproduccion_escenario_1.mat,1,Datos y resultados
+01_PIDF/resultados/reproduccion_escenario_2.mat,1,Datos y resultados
+01_PIDF/resultados/sensibilidad_pid.csv,1,Datos y resultados
+01_PIDF/resultados/sensibilidad_pid.mat,1,Datos y resultados
+01_PIDF/resultados/series_finales_estocastico.csv,1,Datos y resultados
+01_PIDF/resultados/series_finales_pulso.csv,1,Datos y resultados
+01_PIDF/resultados/suspension.fis,1,Modelo o script
+01_PIDF/resultados/verificacion_revision.log,1,Datos y resultados
+02_PSO/auditoria/auditoria_30_registros.csv,2,Datos y resultados
+02_PSO/auditoria/estadisticos_verificados.csv,2,Datos y resultados
+02_PSO/auditoria/resultados_30_ejecuciones_verificados.csv,2,Datos y resultados
+02_PSO/campana_pso.mat,2,Datos y resultados
+02_PSO/ejecuciones/ejecucion_01/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_01/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_01/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_02/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_02/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_02/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_03/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_03/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_03/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_04/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_04/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_04/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_05/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_05/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_05/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_06/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_06/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_06/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_07/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_07/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_07/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_08/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_08/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_08/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_09/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_09/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_09/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_10/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_10/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_10/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_11/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_11/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_11/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_12/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_12/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_12/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_13/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_13/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_13/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_14/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_14/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_14/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_15/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_15/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_15/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_16/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_16/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_16/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_17/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_17/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_17/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_18/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_18/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_18/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_19/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_19/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_19/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_20/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_20/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_20/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_21/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_21/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_21/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_22/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_22/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_22/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_23/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_23/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_23/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_24/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_24/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_24/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_25/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_25/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_25/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_26/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_26/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_26/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_27/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_27/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_27/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_28/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_28/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_28/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_29/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_29/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_29/registro_pso.txt,2,Registro individual
+02_PSO/ejecuciones/ejecucion_30/diagnosticos_enjambre.csv,2,Registro individual
+02_PSO/ejecuciones/ejecucion_30/ejecucion_01.mat,2,Registro individual
+02_PSO/ejecuciones/ejecucion_30/registro_pso.txt,2,Registro individual
+02_PSO/fuentes/ActiveSuspensionv2.slx,2,Dependencia de reproduccion
+02_PSO/fuentes/analizar_resultados_pso.m,2,Dependencia de reproduccion
+02_PSO/fuentes/bloquear_pso4.m,2,Dependencia de reproduccion
+02_PSO/fuentes/configuracion_modelo_objetivo.m,2,Dependencia de reproduccion
+02_PSO/fuentes/configuracion_pso4.m,2,Dependencia de reproduccion
+02_PSO/fuentes/ejecutar_pso4.m,2,Dependencia de reproduccion
+02_PSO/fuentes/ejecutar_pso_30.m,2,Dependencia de reproduccion
+02_PSO/fuentes/evaluar_particula_normalizada.m,2,Dependencia de reproduccion
+02_PSO/fuentes/funcion_objetivo_normalizada.m,2,Dependencia de reproduccion
+02_PSO/fuentes/guardar_pso4.m,2,Dependencia de reproduccion
+02_PSO/fuentes/manifest_pso4.m,2,Dependencia de reproduccion
+02_PSO/fuentes/parameters.m,2,Dependencia de reproduccion
+02_PSO/fuentes/preparar_pso4.m,2,Dependencia de reproduccion
+02_PSO/fuentes/probar_bloqueo_pso4.m,2,Dependencia de reproduccion
+02_PSO/fuentes/pso_una_ejecucion.m,2,Dependencia de reproduccion
+02_PSO/fuentes/referencia_calibrada_origen.mat,2,Dependencia de reproduccion
+02_PSO/fuentes/referencia_objetivo_normalizado.mat,2,Dependencia de reproduccion
+02_PSO/fuentes/suspension.fis,2,Dependencia de reproduccion
+02_PSO/fuentes/trabajador_pso4.m,2,Dependencia de reproduccion
+02_PSO/fuentes/verificar_archivos_pso4.m,2,Dependencia de reproduccion
+02_PSO/fuentes/verificar_modelo_pso4.m,2,Dependencia de reproduccion
+02_PSO/resumen/convergencia_resumen.csv,2,Datos y resultados
+02_PSO/resumen/estadisticas_pso.mat,2,Datos y resultados
+02_PSO/resumen/estadisticas_resumen.csv,2,Datos y resultados
+02_PSO/resumen/estado_ejecuciones.csv,2,Datos y resultados
+02_PSO/resumen/resultados_ejecuciones.csv,2,Datos y resultados
+auditar_registros_pso.m,1 y 2,Modelo o script
+finalizar_revision.m,1 y 2,Modelo o script
+preparar_reproduccion_pso.m,1 y 2,Modelo o script
+verificar_revision.m,1 y 2,Modelo o script
